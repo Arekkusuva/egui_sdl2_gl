@@ -35,6 +35,7 @@ sdl2_use-vcpkg = ["sdl2/use-vcpkg"]
 sdl2_use-mac_framework = ["sdl2/use_mac_framework"]
 sdl2_bundled = ["sdl2/bundled"]
 sdl2_static-link = ["sdl2/static-link"]
+sdl2_raw-window-handle = ["sdl2/raw-window-handle"]
 use_epi = ["epi"]
 
 [dev-dependencies]
